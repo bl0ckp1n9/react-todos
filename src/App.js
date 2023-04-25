@@ -11,9 +11,8 @@ const GlobalStyle = createGlobalStyle`
     background : #dee2e6;
   }
 `
-````
+
 function App() {
-````
   return (
     <TodoProvider>
       <GlobalStyle />
